@@ -15,3 +15,5 @@
 /Users/jacobkantor/Desktop/Classes/Spring24/CIS4930/EsepWebhook/src/EsepWebhook/obj/Release/net8.0/linux-x64/EsepWebhook.pdb
 /Users/jacobkantor/Desktop/Classes/Spring24/CIS4930/EsepWebhook/src/EsepWebhook/obj/Release/net8.0/linux-x64/EsepWebhook.genruntimeconfig.cache
 /Users/jacobkantor/Desktop/Classes/Spring24/CIS4930/EsepWebhook/src/EsepWebhook/obj/Release/net8.0/linux-x64/ref/EsepWebhook.dll
+/Users/jacobkantor/Desktop/Classes/Spring24/CIS4930/EsepWebhook/src/EsepWebhook/bin/Release/net8.0/linux-x64/Newtonsoft.Json.dll
+/Users/jacobkantor/Desktop/Classes/Spring24/CIS4930/EsepWebhook/src/EsepWebhook/obj/Release/net8.0/linux-x64/EsepWebhook.sourcelink.json
